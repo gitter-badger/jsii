@@ -20,13 +20,13 @@
     "@types/yargs": "^13.0.3",
     "jest": "^24.9.0",
     "memory-streams": "^0.1.3",
-    "typescript": "^3.5.3",
+    "typescript": "^3.6.4",
     "jsii-build-tools": "file:../jsii-build-tools"
   },
   "dependencies": {
     "commonmark": "^0.29.0",
     "fs-extra": "^8.1.0",
-    "typescript": "~3.6.2",
+    "typescript": "~3.6.4",
     "yargs": "^14.2.0"
   },
   "jest": {
